@@ -64,7 +64,7 @@ Password: root
 ![](https://raw.githubusercontent.com/yash-sharma01/Fee-Report/master/images/11.jpg)
 
 Activity diagram
- 
+ ![](https://raw.githubusercontent.com/yash-sharma01/Fee-Report/master/images/Activity%20diagram.jpg)
  
 The application is developed for maintaining student’s information in schools, colleges, and coaching. The user interface is very simple, so that the user can easily interact with the application and complete his task.   
 </html>
