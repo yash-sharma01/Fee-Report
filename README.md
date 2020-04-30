@@ -1,35 +1,65 @@
+
 Fee Report System
 
 Objective:
 To develop a Fee Report Application where admin can add/view/edit/delete accountant and accountant can add/view/edit/delete student, check due fee and logout.
-
 Users of system:
 1.	Admin.
 2.	Accountant.
-
 Functional requirement:
 1.	Admin: Can add/view/edit/delete accountant and can logout.
 2.	Accountant: Can add/view/edit/delete students, check due fee and can logout. 
-
 Tools used:
 1.	Use NetBeans IDE with Glassfish Server.
 2.	Apache Derby.
+How project works:
+Screenshots from the application:
+1.	Login as admin.
+ 
+![](https://raw.githubusercontent.com/yash-sharma01/Fee-Report/master/images/1.jpg)
 
+2.	Username: admin
+Password: root
+ 
+![](https://raw.githubusercontent.com/yash-sharma01/Fee-Report/master/images/2.jpg)
 
-Brief Description:
-Fee Report System is a small application for maintaining a student's fee record by an accountant.
-The application is developed on NetBeans IDE with the help of Glassfish Server. Technologies used in this application are:
-1. HTML, CSS for building web pages.
-2. Servlet for making the application dynamic and robust.
-3. Apache Derby for storing data into a database.
+3.	Now you can add/view/edit/delete Accountant. 
+ 
+![](https://raw.githubusercontent.com/yash-sharma01/Fee-Report/master/images/3.jpg)
 
-There are 2 users of this application, the admin and the accountant. The admin manages information about the accountant, whereas the accountant keeps a record of students.
+4.	Enter the following details and click ADD.
+ 
+![](https://raw.githubusercontent.com/yash-sharma01/Fee-Report/master/images/4.jpg)
 
-The application consist of 3 HTML pages, 18 Servlets and 1 CSS file. The front page has the login option for the admin or the accountant.
-After logging in as admin, you can add accountants, view their contact information like their email, contact no, etc. The admin can edit and delete an accountant and its information. Now the admin needs to logout from the application.
+5.	Now, you can check the accountant’s detail by clicking View Accountant.
+ 
+![](https://raw.githubusercontent.com/yash-sharma01/Fee-Report/master/images/5.jpg)
 
-If you login as an accountant, you can view all the students and their details such as roll no, name, email, course they opted, fee paid, etc. If a new student enrols, the accountant can add his/her details in the database by using add student feature. Rather than this the accountant can also edit or delete a student’s record.
+6.	You can edit an accountant’s details by clicking on Edit button. 
+ 
+ ![](https://raw.githubusercontent.com/yash-sharma01/Fee-Report/master/images/6.jpg)
 
-The use of Servlets makes the web application Dynamic, Portable, Robust and Secure.
+7.	After Logging out, you can log in as an accountant.
+ 
+![](https://raw.githubusercontent.com/yash-sharma01/Fee-Report/master/images/7.jpg)
 
-The application is developed for maintaining student’s information in schools, colleges, and coaching. The user interface is very simple, so that the user can easily interact with the application and complete his task.
+8.	Now you can add/view/edit/delete Student’s detail. 
+
+![](https://raw.githubusercontent.com/yash-sharma01/Fee-Report/master/images/8.jpg)
+
+9.	Enter the following details and click ADD.
+ 
+![](https://raw.githubusercontent.com/yash-sharma01/Fee-Report/master/images/9.jpg)
+
+10.	Now, you can check the Student’s detail by clicking View Student.
+
+![](https://raw.githubusercontent.com/yash-sharma01/Fee-Report/master/images/10.jpg)
+
+11.	You can edit an student’s details by clicking on Edit button. 
+ 
+![](https://raw.githubusercontent.com/yash-sharma01/Fee-Report/master/images/11.jpg)
+
+Activity diagram
+ 
+ 
+The application is developed for maintaining student’s information in schools, colleges, and coaching. The user interface is very simple, so that the user can easily interact with the application and complete his task.   
