@@ -1,18 +1,22 @@
-
 Fee Report System
 
 Objective:
-To develop a Fee Report Application where admin can add/view/edit/delete accountant and accountant can add/view/edit/delete student, check due fee and logout.
+To develop a Fee Report Application where admin can add/view/edit/delete accountant and accountant can add/view/edit/delete student, check due fee and logout. 
+
 Users of system:
-1.	Admin.
-2.	Accountant.
+ 1.	Admin.
+ 2.	Accountant.
+
 Functional requirement:
 1.	Admin: Can add/view/edit/delete accountant and can logout.
 2.	Accountant: Can add/view/edit/delete students, check due fee and can logout. 
+
 Tools used:
 1.	Use NetBeans IDE with Glassfish Server.
 2.	Apache Derby.
+
 How project works:
+
 Screenshots from the application:
 1.	Login as admin.
  
@@ -63,3 +67,4 @@ Activity diagram
  
  
 The application is developed for maintaining student’s information in schools, colleges, and coaching. The user interface is very simple, so that the user can easily interact with the application and complete his task.   
+</html>
